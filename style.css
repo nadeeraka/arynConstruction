@@ -28,13 +28,39 @@ color:#222;
 {
   font-size: 500%;
   text-transform:uppercase;
-  text-shadow: 1px 1px 1px #000;
+  text-shadow: 1px 1px 15px #000;
 }
  
-
-
-  
-
+.carousel-caption h3
+{ 
+font-size: 200%;
+font-weight: 500;
+text-shadow: 1px 1px 1px 10px #000;
+padding-bottom: 1rem;
+}
+.btn-primary
+{
+  background-color: #d3d0da;
+  color:#000;
+  border: 1px solid #563d7c;
+}
+ .btn-primary:hover
+ {
+   background-color: #222;
+   color: #d3d0da;
+   border: 1px solid #563d7c;
+ }
+ 
+.jumbotron
+{
+  border-radius: 0;
+   padding: 16px;
+}
+.mybtn:hover
+{
+  background-color: black;
+  border: 3px solid #8f80a7;
+}
 
 
 
