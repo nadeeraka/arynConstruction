@@ -61,9 +61,108 @@ padding-bottom: 1rem;
   background-color: black;
   border: 3px solid #8f80a7;
 }
+.padding{
+  padding-bottom: 16px;
+}
+.welcome{
+  width: 75%;
+  margin: 0 auto;
+  padding-top: 1rem;
+}
+.welcome hr{
+  border-top:2px solid #b4b4b4;
+  width: 95%;
+  margin-top: .3rem;
+  margin-bottom: 1rem;
+}
+.fa-eraser
+{
+color: #e54d26;
+font-size: 4em;
+margin: 1rem;
+}
+.fa-align-justify
+{
+color: #563d7c;
+font-size: 4em;
+margin: 1rem;
 
+}
+.fa-building
+{
+color: #2163af;
+font-size: 4em;
+margin: 1rem;
 
+}
+.img-fixed
+{
+  
+}
+.social
+{
+  font-size: 4.5em;
+  padding: 3rem;
+}
 
+.fa-facebook{
+color: #3b5998;
+}
+.fa-facebook:hover {
+  color: #d1d3da;
+}
+
+.fa-twitter
+{
+colour:#00aced;
+}
+.fa-twitter:hover {
+  colour: #e5ebee;
+}
+
+.fa-google-plus-g
+{
+color:#dd4b39;
+}
+.fa-google-plus-g:hover {
+  color: #caa6a2;
+}
+
+.fa-instagram
+{
+color: #fb3958;
+}
+.fa-instagram:hover {
+  color: #ce8c97;
+}
+.fa-youtube {
+  color: #bb0000;
+}
+.fa-youtube:hover
+{
+color: #da9f9f;
+}
+footer
+{
+  background-color: #3f3f3f;
+  color:#d5d5d5;
+  padding-top: 2erm;
+}
+hr.light
+{
+  border-top: 1px solid #d5d5d5;
+   width:75%;
+   margin-top:.8rem;
+   margin-bottom: 1rem;
+}
+.light-my
+{
+  border-top: 1px solid #d5d5d5;
+  width:100%;
+  margin-top:.8rem;
+  margin-bottom: 1rem;
+
+}
 /*---Media Queries --*/
 @media (max-width: 992px) {
 
